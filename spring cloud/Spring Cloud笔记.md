@@ -462,4 +462,3 @@ public class AdminController {
 ```
 Hi，your message is :"HelloSpring" i am from port：8762
 ```
-![](http://www.funtl.com/assets/Lusifer201805292246002.png)
